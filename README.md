@@ -36,10 +36,6 @@ I'm a DevOps Engineer with over 6 years of experience in designing, implementing
 - **Google Cloud Platform (GCP)**
 - **Microsoft Azure**
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mjagyo&show_icons=true&theme=dark)
-
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mark-joseph-jagyo-580aa79b/)
