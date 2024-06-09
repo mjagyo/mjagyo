@@ -2,6 +2,8 @@
 
 I'm a DevOps Engineer with over 6 years of experience in designing, implementing, and maintaining robust CI/CD pipelines, cloud infrastructure, and automated systems. I have a passion for learning and leveraging the latest technologies to solve complex problems and improve operational efficiency.
 
+## Authors in 
+
 ## 🛠️ Tech Stack
 
 ### Containerization & Orchestration
@@ -18,12 +20,14 @@ I'm a DevOps Engineer with over 6 years of experience in designing, implementing
 ### Infrastructure as Code (IaC)
 - **Terraform**
 - **Ansible**
+- **Pulumi**
 
 ### Programming Languages
 - **Python**
 - **Golang**
 - **Bash**
 - **Node.js**
+- **Typescript**
 - **.NET**
 
 ### Databases
@@ -36,6 +40,10 @@ I'm a DevOps Engineer with over 6 years of experience in designing, implementing
 - **Google Cloud Platform (GCP)**
 - **Microsoft Azure**
 
+## 📦 Projects
+
+- **[VS Code Extension for Jenkins Library](https://marketplace.visualstudio.com/items?itemName=JenkinsLibrarySimplified.jlib)**: Authored and deployed a Visual Studio Code extension for Jenkins, which is actively used by developers to streamline their Jenkins pipeline development.
+
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mark-joseph-jagyo-580aa79b/)
@@ -43,7 +51,7 @@ I'm a DevOps Engineer with over 6 years of experience in designing, implementing
 ## 🌱 Currently Learning
 
 - Advanced Kubernetes techniques
-- Plans to take certifications this year, to solidify my knowledge of various technologies
+- Plans to take certifications this year to solidify my knowledge of various technologies
 
 ## 📫 How to Reach Me
 
