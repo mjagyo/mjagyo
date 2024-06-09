@@ -1,4 +1,4 @@
-# Hi there, I'm Mark Joseph Jagyo 👋
+# Hi there, I'm Mark Joseph 👋
 
 I'm a DevOps Engineer with over 6 years of experience in designing, implementing, and maintaining robust CI/CD pipelines, cloud infrastructure, and automated systems. I have a passion for learning and leveraging the latest technologies to solve complex problems and improve operational efficiency.
 
