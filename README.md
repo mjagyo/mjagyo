@@ -4,6 +4,7 @@ I'm a DevOps Engineer with over 6 years of experience in designing, implementing
 
 ## Articles authored
 Streamlining Jenkins Management with Terraform - https://www.linkedin.com/pulse/streamlining-jenkins-management-terraform-mark-joseph-jagyo-avrwc/?trackingId=NYzV6Sg2TuOHTFm6lyuZKA%3D%3D
+
 Deploy Your Node.js Backend on Azure Using Terraform: A Simple, Scalable Solution for Startups - https://www.linkedin.com/pulse/deploy-your-nodejs-backend-azure-using-terraform-simple-jagyo-x8p8c/?trackingId=%2FL0StitXxL4%2B9%2FtWJqCU0A%3D%3D
 
 ## Posts
