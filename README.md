@@ -17,11 +17,17 @@ Implemented support for file configuration in terratag: https://www.linkedin.com
 - **Kubernetes**
 - **Docker**
 - **ArgoCD**
+- **Openshift**
+- **AKS**
+- **EKS**
+- **ECS**
 
 ### CI/CD Tools
 - **GitHub Actions**
 - **GitLab CI**
 - **Bitbucket Pipelines**
+- **Azure DevOps**
+- **AWS Code Pipeline**
 - **Jenkins**
 
 ### Infrastructure as Code (IaC)
@@ -40,6 +46,9 @@ Implemented support for file configuration in terratag: https://www.linkedin.com
 ### Databases
 - **PostgreSQL**
 - **RethinkDB**
+- **Mongo DB**
+- **Maria DB**
+- **Cassandra DB**
 - **MySQL**
 
 ### Cloud Platforms
@@ -59,6 +68,7 @@ Implemented support for file configuration in terratag: https://www.linkedin.com
 
 - Advanced Kubernetes techniques
 - Plans to take certifications this year to solidify my knowledge of various technologies
+- Taking Openshift certification
 
 ## 📫 How to Reach Me
 
